@@ -1,2 +1,3 @@
-Diffusion Cellular Automaton
-![Animanted diffusion](.gif)
+![### Diffusion Cellular Automaton ###]()
+
+![Animanted diffusion](diffusion_movie.gif)
